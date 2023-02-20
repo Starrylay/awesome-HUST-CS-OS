@@ -1,5 +1,5 @@
 # 华中科技大学OS课程设计<br>
-华中科技大学19级沈承磊的OS课设/操作系统课程设计/Linux任务监视器/新增系统调用<br>
+华中科技大学19级OS课设/操作系统课程设计/Linux任务监视器/新增系统调用<br>
 ## 开发环境：<br>
 ### 1. 硬件环境：<br>
 a) 中央处理器 CPU：AMD Ryzen 7 5800H with Radeon Graphics 3.20 GHz<br>
